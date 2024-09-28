@@ -1,5 +1,3 @@
 fish_fry
 checken_curry
-mutton_curry
-egg_fry
-mutton_fry
+
