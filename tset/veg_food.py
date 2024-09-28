@@ -1,5 +1,3 @@
 tomato_curry
 brinjal_curry
-potato_fry
-beens_fry
-ladysfinger_fry
+
